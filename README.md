@@ -153,7 +153,7 @@ Projects focused on automation, CI/CD pipelines, version control, and improving 
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Usonwa77&theme=github-compact&hide_border=true" />
 
 </p>
 
