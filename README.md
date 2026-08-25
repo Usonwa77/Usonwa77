@@ -6,12 +6,12 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+my+future+in+Cloud+Engineering;Learning+DevOps+and+Automation;Turning+ideas+into+real-world+projects" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+my+future+in+Cloud+Engineering;Learning+DevOps+and+Automation;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=2563eb&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Usonwa77&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -34,23 +34,8 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://github.com/yourusername">
-  <img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
-  
-
-<a href="https://linkedin.com/in/yourusername">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-  
-
-<a href="https://twitter.com/yourusername">
-  <img src="https://skillicons.dev/icons?i=twitter" height="45" />
-</a>
-
+  <a href="https://github.com/Usonwa77"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ifeomaonwafor/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -58,17 +43,13 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 ## 💻 Technologies & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws,azure" />
-
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nodejs,git,github,linux,vscode,docker,aws,azure" alt="Technologies and Tools" />
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Cloud-Computing-2563EB?style=for-the-badge&logo=icloud&logoColor=white" />
-<img src="https://img.shields.io/badge/DevOps-Automation-0EA5E9?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-
+  <img src="https://img.shields.io/badge/Cloud-Computing-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Computing" />
+  <img src="https://img.shields.io/badge/DevOps-Automation-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="DevOps Automation" />
+  <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Administration" />
 </p>
 
 ---
@@ -79,7 +60,7 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 
 Projects focused on deploying and managing cloud infrastructure using modern cloud technologies and automation tools.
 
-🔗 **Repository:** `Add your repository link here`
+🔗 **Repository:** Coming soon
 
 ---
 
@@ -87,7 +68,7 @@ Projects focused on deploying and managing cloud infrastructure using modern clo
 
 Hands-on projects exploring containerization, Docker, and application deployment.
 
-🔗 **Repository:** `Add your repository link here`
+🔗 **Repository:** Coming soon
 
 ---
 
@@ -95,46 +76,39 @@ Hands-on projects exploring containerization, Docker, and application deployment
 
 Projects focused on automation, CI/CD pipelines, version control, and improving software delivery.
 
-🔗 **Repository:** `Add your repository link here`
+🔗 **Repository:** Coming soon
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-| Certification                                | Issuing Organization | Date     | Credential           |
-| -------------------------------------------- | -------------------- | -------- | -------------------- |
-| Microsoft Azure Fundamentals (AZ-900)        | Microsoft            | Jan 2026 | [View Credential](#) |
-| AWS Cloud Practitioner                       | AWS                  | Feb 2026 | [View Credential](#) |
-| Google Cloud Digital Leader                  | Google               | Mar 2026 | [View Credential](#) |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF                 | Apr 2026 | [View Credential](#) |
-| *More certifications coming soon...*         |                      |          |                      |
+| Certification                                | Issuing Organization | Date     | Credential  |
+| -------------------------------------------- | -------------------- | -------- | ----------- |
+| Microsoft Azure Fundamentals (AZ-900)        | Microsoft            | Jan 2026 | Coming soon |
+| AWS Cloud Practitioner                       | AWS                  | Feb 2026 | Coming soon |
+| Google Cloud Digital Leader                  | Google               | Mar 2026 | Coming soon |
+| Kubernetes and Cloud Native Associate (KCNA) | CNCF                 | Apr 2026 | Coming soon |
 
 ---
 
 ## 📜 Certification Badges
 
 <p align="center">
-
-<img src="images/az900.png" width="120" alt="AZ-900 Certification" />
-
-<img src="images/aws-cloud-practitioner.png" width="120" alt="AWS Cloud Practitioner" />
-
-<img src="images/kcna.png" width="120" alt="KCNA Certification" />
-
-<img src="images/google-cloud.png" width="120" alt="Google Cloud Certification" />
-
+  <img src="images/az900.png" width="120" alt="AZ-900 Certification" />
+  <img src="images/aws-cloud-practitioner.png" width="120" alt="AWS Cloud Practitioner" />
+  <img src="images/kcna.png" width="120" alt="KCNA Certification" />
+  <img src="images/google-cloud.png" width="120" alt="Google Cloud Certification" />
 </p>
+
+> **Note:** These badge images will only display if the image files actually exist inside the `images` folder in your GitHub profile repository.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true" />
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Usonwa77&show_icons=true&hide_border=true" alt="Usonwa77's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usonwa77&layout=compact&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
@@ -142,9 +116,9 @@ Projects focused on automation, CI/CD pipelines, version control, and improving 
 ## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yourusername&theme=transparent&hide_border=true" />
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Usonwa77&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -152,9 +126,7 @@ Projects focused on automation, CI/CD pipelines, version control, and improving 
 ## 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Usonwa77&theme=github-compact&hide_border=true" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Usonwa77&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
@@ -177,8 +149,6 @@ Projects focused on automation, CI/CD pipelines, version control, and improving 
 
 ### 💡 *"The best way to learn technology is to build with it."*
 
-<br/>
-
 ⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.** ⭐
 
 </p>
@@ -187,4 +157,5 @@ Projects focused on automation, CI/CD pipelines, version control, and improving 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:0ea5e9&height=120&section=footer" />
+</p>
 </p>
