@@ -1,17 +1,17 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:2563eb,100:1e3a8a&height=250&section=header&text=Usonwa%20Nwafor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20Engineer%20%7C%20Software%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:991b1b,100:dc2626&height=250&section=header&text=Usonwa%20Nwafor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20Engineer%20%7C%20Software%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Building+my+future+in+Cloud+Engineering;Learning+DevOps+and+Automation;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=Building+my+future+in+Cloud+Engineering;Learning+DevOps+and+Automation;Turning+ideas+into+real-world+projects" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Usonwa77&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Usonwa77&label=Profile%20Views&color=991b1b&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -47,9 +47,9 @@ I enjoy learning new technologies, building real-world projects, and continuousl
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-Computing-2563EB?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/DevOps-Automation-0EA5E9?style=for-the-badge&logo=git&logoColor=white" alt="DevOps Automation" />
-  <img src="https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Administration" />
+  <img src="https://img.shields.io/badge/Cloud-Computing-450A0A?style=for-the-badge&logo=icloud&logoColor=DC2626" alt="Cloud Computing" />
+  <img src="https://img.shields.io/badge/DevOps-Automation-450A0A?style=for-the-badge&logo=git&logoColor=DC2626" alt="DevOps Automation" />
+  <img src="https://img.shields.io/badge/Linux-Administration-450A0A?style=for-the-badge&logo=linux&logoColor=DC2626" alt="Linux Administration" />
 </p>
 
 ---
@@ -82,12 +82,12 @@ Projects focused on automation, CI/CD pipelines, version control, and improving 
 
 ## 🏆 Certifications & Achievements
 
-| Certification                                | Issuing Organization | Date     | Credential  |
-| -------------------------------------------- | -------------------- | -------- | ----------- |
-| Microsoft Azure Fundamentals (AZ-900)        | Microsoft            | Jan 2026 | Coming soon |
-| AWS Cloud Practitioner                       | AWS                  | Feb 2026 | Coming soon |
-| Google Cloud Digital Leader                  | Google               | Mar 2026 | Coming soon |
-| Kubernetes and Cloud Native Associate (KCNA) | CNCF                 | Apr 2026 | Coming soon |
+| Certification                                | Issuing Organization | Credential                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------------------------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Microsoft Azure Fundamentals (AZ-900)**    | Microsoft            | [Credential 1](https://learn.microsoft.com/en-gb/users/ifeomanwafor-8949/credentials/90282cbb64019deb?ref=https%3A%2F%2Fwww.linkedin.com%2F) · [Credential 2](https://learn.microsoft.com/en-us/users/ifeomausonwanwafor-9604/credentials/d3cb3ae5c2a9d78f?ref=https%3A%2F%2Fwww.linkedin.com%2F) · [Credential 3](https://learn.microsoft.com/en-us/users/ifeomausonwanwafor-9604/credentials/245c128235d7fe60?ref=https%3A%2F%2Fwww.linkedin.com%2F) · [Credential 4](https://learn.microsoft.com/en-us/users/ifeomausonwanwafor-9604/credentials/1192b72c75042049?ref=https%3A%2F%2Fwww.linkedin.com%2F) · [Credential 5](https://learn.microsoft.com/en-us/users/ifeomausonwanwafor-9604/credentials/4432deb95b6e307e?ref=https%3A%2F%2Fwww.linkedin.com%2F) · [Credential 6](https://learn.microsoft.com/en-us/users/ifeomausonwanwafor-9604/credentials/5fa7e11983a2e148?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
+| AWS Cloud Practitioner                       | AWS                  | Coming soon                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Google Cloud Digital Leader                  | Google               | Coming soon                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Kubernetes and Cloud Native Associate (KCNA) | CNCF                 | Coming soon                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 ---
 
@@ -107,8 +107,8 @@ Projects focused on automation, CI/CD pipelines, version control, and improving 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Usonwa77&show_icons=true&hide_border=true" alt="Usonwa77's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usonwa77&layout=compact&hide_border=true" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Usonwa77&show_icons=true&theme=github_dark&hide_border=true" alt="Usonwa77's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usonwa77&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
@@ -117,7 +117,7 @@ Projects focused on automation, CI/CD pipelines, version control, and improving 
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Usonwa77&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Usonwa77&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -156,6 +156,7 @@ Projects focused on automation, CI/CD pipelines, version control, and improving 
 <!-- ========================= FOOTER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:0ea5e9&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:991b1b,100:dc2626&height=120&section=footer" />
 </p>
-</p>
+
+ 
