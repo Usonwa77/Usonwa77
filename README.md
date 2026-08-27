@@ -91,27 +91,6 @@ Projects focused on automation, CI/CD pipelines, version control, and improving 
 
 ---
 
-## 📜 Certification Badges
-
-<p align="center">
-  <img src="images/az900.png" width="120" alt="AZ-900 Certification" />
-  <img src="images/aws-cloud-practitioner.png" width="120" alt="AWS Cloud Practitioner" />
-  <img src="images/kcna.png" width="120" alt="KCNA Certification" />
-  <img src="images/google-cloud.png" width="120" alt="Google Cloud Certification" />
-</p>
-
-> **Note:** These badge images will only display if the image files actually exist inside the `images` folder in your GitHub profile repository.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Usonwa77&show_icons=true&theme=github_dark&hide_border=true" alt="Usonwa77's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usonwa77&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
