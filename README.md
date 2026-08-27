@@ -1,7 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:450a0a,50:991b1b,100:dc2626&height=250&section=header&text=Usonwa%20Nwafor&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Cloud%20Engineer%20%7C%20Software%20Developer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=18" />
+  <img src="./images/tech-banner.png" width="100%" alt="Usonwa Nwafor - Cloud Engineer and DevOps Enthusiast" />
 </p>
 
 <p align="center">
