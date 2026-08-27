@@ -101,24 +101,6 @@ Projects focused on automation, CI/CD pipelines, version control, and improving 
 ---
 
 
-## 🔥 Contribution Streak
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Usonwa77&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Usonwa77&theme=github-compact&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 ## 🎯 My 2026 Goals
 
 * [x] Build real-world cloud projects
